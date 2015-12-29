@@ -8,6 +8,13 @@ body {
   font-size: 16px;
   line-height: 1.5;
   color: #606c71; }
+  
+div.cities {
+  background-color:black;
+  color:white;
+  margin:20px;
+  padding:20px;
+} 
 
 a {
   color: #1e6bb8;
